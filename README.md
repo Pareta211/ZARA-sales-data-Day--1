@@ -29,6 +29,8 @@ This project focuses on cleaning ZARA’s sales data for the year 2023–2024 us
 ## 🛠 Tools Used
 
 - Microsoft Excel
+  ## Source - kaggle
+  -- https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara
 
 ---
 
